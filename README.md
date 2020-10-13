@@ -1,4 +1,4 @@
-# Uniswap SDK
+# Fusewap SDK, Uniswap SDK fork
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![Actions Status](https://github.com/Uniswap/uniswap-sdk/workflows/CI/badge.svg)](https://github.com/Uniswap/uniswap-sdk)
@@ -14,13 +14,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/Uniswap/uniswap-sdk.git
+git clone https://github.com/fuseio/fuseswap-sdk.git
 ```
 
-Move into the uniswap-sdk working directory
+Move into the fuseswap-sdk working directory
 
 ```sh
-cd uniswap-sdk/
+cd fuseswap-sdk/
 ```
 
 Install dependencies
