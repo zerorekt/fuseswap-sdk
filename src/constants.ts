@@ -5,6 +5,7 @@ export type BigintIsh = JSBI | bigint | string
 
 export enum ChainId {
   FUSE = 122,
+  FANTOM = 250,
   MAINNET = 1,
   ROPSTEN = 3,
   RINKEBY = 4,

@@ -1,15 +1,16 @@
 {
-  "name": "@fuseio/fuse-swap-sdk",
+  "name": "@zerorekt/ftm-swap-sdk",
   "license": "MIT",
-  "version": "3.1.0",
-  "description": "🛠 An SDK for building applications on top of Fuseswap.",
+  "version": "1.0.0",
+  "description": "🛠 An SDK for building applications on top of Fantomswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/fuseio/fuseswap-sdk.git",
+  "repository": "https://github.com/zerorekt/fantomswap-sdk.git",
   "keywords": [
+    "fantomswap",
     "fuse",
     "fuseswap",
     "uniswap",
