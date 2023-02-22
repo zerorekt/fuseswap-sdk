@@ -1,5 +1,5 @@
 {
-  "name": "@zerorekt/ftm-swap-sdk",
+  "name": "ftm-swap-sdk",
   "license": "MIT",
   "version": "1.0.0",
   "description": "🛠 An SDK for building applications on top of Fantomswap.",
